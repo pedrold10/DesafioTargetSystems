@@ -1,0 +1,15 @@
+/home/pedro/Documentos/DesafioTargetSystems/Questao2/obj/Debug/net6.0/Questao2.csproj.AssemblyReference.cache
+/home/pedro/Documentos/DesafioTargetSystems/Questao2/obj/Debug/net6.0/Questao2.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/Documentos/DesafioTargetSystems/Questao2/obj/Debug/net6.0/Questao2.AssemblyInfoInputs.cache
+/home/pedro/Documentos/DesafioTargetSystems/Questao2/obj/Debug/net6.0/Questao2.AssemblyInfo.cs
+/home/pedro/Documentos/DesafioTargetSystems/Questao2/obj/Debug/net6.0/Questao2.csproj.CoreCompileInputs.cache
+/home/pedro/Documentos/DesafioTargetSystems/Questao2/bin/Debug/net6.0/Questao2
+/home/pedro/Documentos/DesafioTargetSystems/Questao2/bin/Debug/net6.0/Questao2.deps.json
+/home/pedro/Documentos/DesafioTargetSystems/Questao2/bin/Debug/net6.0/Questao2.runtimeconfig.json
+/home/pedro/Documentos/DesafioTargetSystems/Questao2/bin/Debug/net6.0/Questao2.dll
+/home/pedro/Documentos/DesafioTargetSystems/Questao2/bin/Debug/net6.0/Questao2.pdb
+/home/pedro/Documentos/DesafioTargetSystems/Questao2/obj/Debug/net6.0/Questao2.dll
+/home/pedro/Documentos/DesafioTargetSystems/Questao2/obj/Debug/net6.0/refint/Questao2.dll
+/home/pedro/Documentos/DesafioTargetSystems/Questao2/obj/Debug/net6.0/Questao2.pdb
+/home/pedro/Documentos/DesafioTargetSystems/Questao2/obj/Debug/net6.0/Questao2.genruntimeconfig.cache
+/home/pedro/Documentos/DesafioTargetSystems/Questao2/obj/Debug/net6.0/ref/Questao2.dll
