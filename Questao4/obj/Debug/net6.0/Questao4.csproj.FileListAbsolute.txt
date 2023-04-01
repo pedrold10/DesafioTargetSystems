@@ -1,0 +1,15 @@
+/home/pedro/Documentos/DesafioTargetSystems/Questao4/bin/Debug/net6.0/Questao4
+/home/pedro/Documentos/DesafioTargetSystems/Questao4/bin/Debug/net6.0/Questao4.deps.json
+/home/pedro/Documentos/DesafioTargetSystems/Questao4/bin/Debug/net6.0/Questao4.runtimeconfig.json
+/home/pedro/Documentos/DesafioTargetSystems/Questao4/bin/Debug/net6.0/Questao4.dll
+/home/pedro/Documentos/DesafioTargetSystems/Questao4/bin/Debug/net6.0/Questao4.pdb
+/home/pedro/Documentos/DesafioTargetSystems/Questao4/obj/Debug/net6.0/Questao4.csproj.AssemblyReference.cache
+/home/pedro/Documentos/DesafioTargetSystems/Questao4/obj/Debug/net6.0/Questao4.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/Documentos/DesafioTargetSystems/Questao4/obj/Debug/net6.0/Questao4.AssemblyInfoInputs.cache
+/home/pedro/Documentos/DesafioTargetSystems/Questao4/obj/Debug/net6.0/Questao4.AssemblyInfo.cs
+/home/pedro/Documentos/DesafioTargetSystems/Questao4/obj/Debug/net6.0/Questao4.csproj.CoreCompileInputs.cache
+/home/pedro/Documentos/DesafioTargetSystems/Questao4/obj/Debug/net6.0/Questao4.dll
+/home/pedro/Documentos/DesafioTargetSystems/Questao4/obj/Debug/net6.0/refint/Questao4.dll
+/home/pedro/Documentos/DesafioTargetSystems/Questao4/obj/Debug/net6.0/Questao4.pdb
+/home/pedro/Documentos/DesafioTargetSystems/Questao4/obj/Debug/net6.0/Questao4.genruntimeconfig.cache
+/home/pedro/Documentos/DesafioTargetSystems/Questao4/obj/Debug/net6.0/ref/Questao4.dll
